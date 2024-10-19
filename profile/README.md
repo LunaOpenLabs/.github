@@ -28,6 +28,6 @@ We welcome contributions from developers of all skill levels. Whether you’re a
 At LunaOpenLabs, we believe that open-source software is more than just code. It’s about creating a community where knowledge is shared, and collaboration leads to innovation. We strive to build tools that are not only powerful but also easy to use and accessible for everyone.
 
 ## 📫 Get in Touch
-- **Email:** faisaldadkhandevops@gmail.com
+- **Email:** LunaOpenLabs@outlook.com
 
 Thank you for visiting LunaOpenLabs! Together, let's illuminate the world of open-source development!
