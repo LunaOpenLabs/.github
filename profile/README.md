@@ -1,7 +1,5 @@
 # Welcome to LunaOpenLabs!
 
-LunaOpenLabs
-
 ## 🌙 About Us
 LunaOpenLabs is a collaborative DevOps organization dedicated to developing open-source solutions that empower developers and enhance productivity. Our mission is to foster innovation, share knowledge, and create tools that are accessible to everyone.
 
@@ -13,7 +11,16 @@ We specialize in:
 
 ## 🔧 Our Projects
 Explore our projects:
-will be adding our projects soon.
+1. Luna Academy: [GitHub Repository](https://github.com/LunaOpenLabs/Luna-Academy)
+2. Luna DevCode: [GitHub Repository](https://github.com/LunaOpenLabs/Luna-DevCode)
+3. Luna Cleaner: [GitHub Repository](https://github.com/LunaOpenLabs/Luna-Cleaner)
+4. Luna Ai (Text Classification Model): [GitHub Repository](https://github.com/LunaOpenLabs/Luna-Ai)
+
+### 🌟 Luna Ai
+Luna Ai is our cutting-edge text classification model designed to analyze customer feedback and classify sentiments. The model is available on Hugging Face, and you can explore the dataset as well. 
+
+- **Luna Ai Model:** [Hugging Face Model Page](https://huggingface.co/LunaOpenLabs/Luna-Ai)
+- **Dataset:** [Hugging Face Dataset Page](https://huggingface.co/datasets/LunaOpenLabs/Luna-Ai-Dataset)
 
 ## 🤝 Join Us
 We welcome contributions from developers of all skill levels. Whether you’re a beginner or an expert, there’s a place for you at LunaOpenLabs!
